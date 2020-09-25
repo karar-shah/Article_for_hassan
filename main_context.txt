@@ -1,1 +1,2 @@
-updated the file in local repo using smartgit
+updated the file in local repo using smartgit.
+the new line is added to the file through online server
